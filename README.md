@@ -112,7 +112,7 @@ Email: sharma.aditya2697@gmail.com
 
 LinkedIn: https://www.linkedin.com/in/aditya-sharma-849b121b6/
 
-GitHub: https://github.com/sharmaaditya2697-commits/sharmaaditya2697.github.io
+GitHub: https://github.com/sharmaaditya2697-commits
 
 ---
 
