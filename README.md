@@ -30,7 +30,7 @@ I am passionate about building scalable automation solutions, solving complex bu
 | Enterprise Applications | SAP, SharePoint |
 | Cloud & Storage | Azure Storage |
 | Web Technologies | HTML, CSS, Bootstrap |
-| AI Tools | Gemini |
+| AI Tools | ChatGPT | Cluade Cowork | Gemini |
 | Other Skills | SDLC, Web Automation, Process Optimization | PDD Documentation |
 
 ## Professional Experience
